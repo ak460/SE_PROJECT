@@ -1,4 +1,4 @@
-# SE_PROJECT
+# Validation Of Registration Form
 
 Name : Akanksha Sambhaji Desai MIS: 111903011
 
